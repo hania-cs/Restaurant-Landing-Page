@@ -22,7 +22,7 @@ This project is a responsive restaurant landing page designed and developed usin
 
 ## Demo
 
-A live demo of the restaurant landing page can be accessed [here](#).
+A live demo of the restaurant landing page can be accessed [here](https://hania-cs.github.io/Restaurant-Landing-Page/).
 
 ## Installation
 
