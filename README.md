@@ -20,9 +20,6 @@ This project is a responsive restaurant landing page designed and developed usin
 - Customer reviews: Testimonials from satisfied customers are showcased to build trust and credibility.
 - Contact options: The page provides links to contact the restaurant via phone, Facebook, and Instagram.
 
-## Demo
-
-A live demo of the restaurant landing page can be accessed [here](https://hania-cs.github.io/Restaurant-Landing-Page/).
 
 ## Installation
 
