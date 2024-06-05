@@ -113,6 +113,9 @@ header .navbar a {
 header .navbar a:hover {
   color: var(--red);
 }
+.home{
+  background-image: url(home.jpg);
+}
 
 #menu-bar {
   font-size: 3rem;
